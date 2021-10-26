@@ -1,0 +1,8 @@
+cd /usr/local/ByteSaverSignalConverter51972/
+sh shutdownByteSaverSignalConverter.sh
+sh shutdownByteSaverSignalConverter.sh
+sh shutdownByteSaverSignalConverter.sh
+
+rm -rf SignalingProxy.log
+
+sh runByteSaverSignalConverter.sh
