@@ -6,3 +6,5 @@ sh shutdownByteSaverSignalConverter.sh
 rm -rf SignalingProxy.log
 
 sh runByteSaverSignalConverter.sh
+
+cd ../
